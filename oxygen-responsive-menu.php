@@ -65,7 +65,7 @@ function genesis_responsive_menu_settings() {
 
 	$settings = array(
 		// 'mainMenu'         => __( 'Menu', 'genesis-sample' ),
-		'mainMenu'         => sprintf( '<span class="hamburger-box"><span class="hamburger-inner"></span></span><span class="hamburger-label">%s</span>', __( 'Menu', 'genesis-sample' ) ),
+		'mainMenu'         => sprintf( '<span class="hamburger-box"><span class="hamburger-inner"></span></span>', __( 'genesis-sample' ) ),
 		// 'menuIconClass'    => 'dashicons-before dashicons-menu',
 		'menuIconClass'    => 'hamburger hamburger--slider',
 		'subMenu'          => __( 'Submenu', 'genesis-sample' ),
