@@ -254,8 +254,8 @@ header {
 .hamburger-inner::before,
 .hamburger-inner::after {
 	width: 40px;
-	height: 4px;
-	background-color: #000;
+	height: 5px;
+	background-color: #ffffff;
 	border-radius: 4px;
 	position: absolute;
 	-webkit-transition-property: -webkit-transform;
