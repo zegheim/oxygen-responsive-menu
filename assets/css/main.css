@@ -190,12 +190,12 @@ header {
 	width: 100%;
 
 	/* uncomment the following if you do not want the expanded menu to push down the content below */
-	/* position: absolute;
+	position: absolute;
 	top: 80px;
 	left: 0;
 	padding: 20px;
 	background-color: #fff;
-	border-bottom: 1px solid #eee; */
+	border-bottom: 1px solid #eee;
 }
 
 /* Animated hamburger
