@@ -226,7 +226,7 @@ header {
 	text-transform: none;
 	background-color: transparent;
 	border: 0;
-	margin: 10px 0 0 0;
+	margin:  0 0 0;
 	overflow: visible;
 }
 
@@ -322,7 +322,7 @@ header {
 			transform: translate3d(0, -20px, 0) rotate(-90deg);
 }
 
-@media only screen and (min-width: 960px) {
+@media only screen and (min-width: 768px) { 
 
 	/* Genesis Menu
 	--------------------------------------------- */
